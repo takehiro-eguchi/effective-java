@@ -54,7 +54,6 @@ public class TryWithResource {
 				resource.close();
 			}
 		}
-
 	}
 
 	private static void tryCatchFinallyImprove() throws Exception {
